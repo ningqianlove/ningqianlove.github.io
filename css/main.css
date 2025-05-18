@@ -437,7 +437,7 @@ code {
   -moz-user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
-  user-select: text;
+  user-select: none;
 }
 .highlight .gutter pre {
   background: #eff2f3;
@@ -479,7 +479,7 @@ pre .meta {
   -moz-user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
-  user-select: text;
+  user-select: none;
 }
 pre .comment {
   color: #8e908c;
